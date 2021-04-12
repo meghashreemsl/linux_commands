@@ -1,0 +1,102 @@
+  348  ls --all
+  349  ls -a
+  350  java -version
+  351  javac
+  352  env
+  353  pwd
+  354  cd/
+  355  cd ~
+  356  cd .
+  357  cd ..
+  358  ls -a/
+  359  clear
+  360  cd 
+  361  pwd
+  362  cd C
+  363  clear
+  364  nano meghashree.txt
+  365  nano yashaswini.txt
+  366  cp meghashree.txt yashaswini.txt
+  367  cat meghashree.txt
+  368  cat yashaswini.txt
+  369  mv meghashree.txt yashaswini.txt
+  370  cat yashaswini.txt
+  371  cat meghashree.txt
+  372  pwd
+  373  touch megha.pdf
+  374  touch yash.txt
+  375  pwd
+  376  cd C
+  377  cd ..
+  378  cd/
+  379  cd /
+  380  cd C
+  381  mkdir terminalcommands
+  382  ls
+  383  ls
+  384  cd terminalcommands/
+  385  mkdir terminalcommands 
+  386  ls
+  387  cd terminalcommands/
+  388  git clone https://github.com/edurekavivekh/linux-content.
+  389  git clone https://github.com/edurekavivekh/linux-content.git
+  390  ls
+  391  cat data.csv
+  392  cd..
+  393  cat data.csv
+  394  ls
+  395  cd linux-content/
+  396  cat data.csv
+  397  grep CAPTAIN data.csv
+  398  grep GARY data.csv
+  399  grep 0 data.csv
+  400  grep -i gm data.csv
+  401  grep -r CAPTAIN data.csv
+  402  grep -v CAPTAIN data.csv
+  403  ls | grep -v/
+  404  cd
+  405  ls | grep/
+  406  ls | grep/
+  407  ls | grep -v /
+  408  env | grep -i java
+  409  env | grep User
+  410  env | grep USER
+  411  echo $USERNAME
+  412  echo $JAVA_HOME
+  413  history
+  414  history
+  415  mkdir terminalcommands
+  416  ls
+  417  cd terminalcommands
+  418  cd terminalcommands/
+  419  git clone https://github.com/edurekavivekh/linux-content.git
+  420  ls
+  421  cd linux-content/
+  422  ls
+  423  cat data.csv
+  424  cd..
+  425  find . -name *.pdf
+  426  find . -name *.txt
+  427  find  .-size +5M
+  428  ls -l linux-content/
+  429  git clone https://github.com/edurekavivekh/linux-content.git
+  430  mkdir terminalcommands
+  431  ls
+  432  cat data.csv
+  433  find .-name *.pdf
+  434  find . -size +5M
+  435  ls -l linux-content/
+  436  find .-size -100m
+  437  find .-size -100M
+  438  ls
+  439  touch data data.txt abc.txt abc.pdf
+  440  ls
+  441  find . -name 'data*'
+  442  touch 'dataabc*'
+  443  clear
+  444  ls
+  445  history
+  446  history -99 >meghashree_linux.txt
+  447  history history
+  448  history
+  449  history 102 >meghashree_linux.txt
